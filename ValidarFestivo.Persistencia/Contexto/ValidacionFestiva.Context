@@ -1,0 +1,37 @@
+﻿using Microsoft.EntityFrameworkCore;
+using ValidacionFestiva.Dominio.Entidades;
+
+namespace ValidacionFestiva.Persistencia.Contexto
+{
+    public class ValidacionFestivaContext : DbContext
+    {
+        public ValidacionFestivaContext(DbContextOptions<ValidacionFestivaContext> options)
+            : base(options)
+        {
+        }
+
+      
+        public DbSet<Festivo> Festivos { get; set; }
+        public DbSet<TipoFestivo> TiposFestivo { get; set; }
+
+        protected override void OnModelCreating(ModelBuilder builder)
+        {
+          
+            builder.Entity<Festivo>(entidad =>
+            {
+                entidad.HasKey(e => e.Id);
+                entidad.HasIndex(e => new { e.Dia, e.Mes }).IsUnique();
+                entidad.HasOne(e => e.TipoFestivo)
+                       .WithMany()
+                       .HasForeignKey(e => e.TipoFestivoId);
+            });
+
+         
+            builder.Entity<TipoFestivo>(entidad =>
+            {
+                entidad.HasKey(e => e.Id);
+                entidad.HasIndex(e => e.Descripcion).IsUnique();
+            });
+        }
+    }
+}
