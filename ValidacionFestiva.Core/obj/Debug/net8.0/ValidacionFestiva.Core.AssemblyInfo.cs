@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("ValidacionFestiva.Dominio")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ValidacionFestiva.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+685e8f3cfba087a148b7294e2843da6847378008")]
-[assembly: System.Reflection.AssemblyProductAttribute("ValidacionFestiva.Dominio")]
-[assembly: System.Reflection.AssemblyTitleAttribute("ValidacionFestiva.Dominio")]
+[assembly: System.Reflection.AssemblyProductAttribute("ValidacionFestiva.Core")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ValidacionFestiva.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
