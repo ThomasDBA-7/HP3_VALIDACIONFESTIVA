@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ValidacionFestiva.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+685e8f3cfba087a148b7294e2843da6847378008")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc675e749c2ffedeb6c88670b936cc2479313428")]
 [assembly: System.Reflection.AssemblyProductAttribute("ValidacionFestiva.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ValidacionFestiva.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

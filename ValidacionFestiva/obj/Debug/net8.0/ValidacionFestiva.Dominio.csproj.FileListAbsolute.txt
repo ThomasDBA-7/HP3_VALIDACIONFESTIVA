@@ -1,0 +1,13 @@
+E:\ValidacionFestiva\ValidacionFestiva\bin\Debug\net8.0\ValidacionFestiva.Dominio.deps.json
+E:\ValidacionFestiva\ValidacionFestiva\bin\Debug\net8.0\ValidacionFestiva.Dominio.dll
+E:\ValidacionFestiva\ValidacionFestiva\bin\Debug\net8.0\ValidacionFestiva.Dominio.pdb
+E:\ValidacionFestiva\ValidacionFestiva\obj\Debug\net8.0\ValidacionFestiva.Dominio.csproj.AssemblyReference.cache
+E:\ValidacionFestiva\ValidacionFestiva\obj\Debug\net8.0\ValidacionFestiva.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+E:\ValidacionFestiva\ValidacionFestiva\obj\Debug\net8.0\ValidacionFestiva.Dominio.AssemblyInfoInputs.cache
+E:\ValidacionFestiva\ValidacionFestiva\obj\Debug\net8.0\ValidacionFestiva.Dominio.AssemblyInfo.cs
+E:\ValidacionFestiva\ValidacionFestiva\obj\Debug\net8.0\ValidacionFestiva.Dominio.csproj.CoreCompileInputs.cache
+E:\ValidacionFestiva\ValidacionFestiva\obj\Debug\net8.0\ValidacionFestiva.Dominio.sourcelink.json
+E:\ValidacionFestiva\ValidacionFestiva\obj\Debug\net8.0\ValidacionFestiva.Dominio.dll
+E:\ValidacionFestiva\ValidacionFestiva\obj\Debug\net8.0\refint\ValidacionFestiva.Dominio.dll
+E:\ValidacionFestiva\ValidacionFestiva\obj\Debug\net8.0\ValidacionFestiva.Dominio.pdb
+E:\ValidacionFestiva\ValidacionFestiva\obj\Debug\net8.0\ref\ValidacionFestiva.Dominio.dll
